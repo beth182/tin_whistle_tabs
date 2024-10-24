@@ -6,9 +6,7 @@ setup(
     author='Beth Saunders',
     author_email='bethany.saunders@pgr.reading.ac.uk',
     packages=[],
-    install_requires=[
-        'matplotlib'
-    ],
+    install_requires=[],
     version='0.1',
     license='MIT',
     description='Create simple tin whistle tabs',
